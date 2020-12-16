@@ -7,4 +7,11 @@ Utilised also in
 
 > Jetka, Tomasz, et al. "An information-theoretic framework for deciphering pleiotropic and noisy biochemical signaling." Nature communications 9.1 (2018): 1-9.
 
-Package is freely available under GNU License.
+
+For assistance, please refer to manual presented in 
+
+> Komorowski, Michał, Justina Žurauskienė, and Michael PH Stumpf. "StochSens—matlab package for sensitivity analysis of stochastic chemical systems." Bioinformatics 28.5 (2012): 731-733.
+
+or contact t.jetka at gmail.com.
+
+Re-Implemented in 2017. Package is freely available under GNU License.
